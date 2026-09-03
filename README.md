@@ -11,7 +11,7 @@ Estudiante de Ingeniería de Software · 9° semestre · Universidad Manuela Bel
 - Integro IAs reales usando el **SDK de Anthropic** (Claude Sonnet/Haiku)
 - Manejo el backend con **FastAPI, Django, PostgreSQL y Docker**
 - Apasionado por la **ciberseguridad** (OWASP Top 10) y las herramientas para devs
-- Inglés B2 · Servicio Militar (Armada de Colombia) · Certificado IBM Design Thinking
+- Inglés B2 · Certificado IBM Design Thinking
 
 ---
 
