@@ -1,6 +1,6 @@
 # Santiago Rodríguez Ángel — EngAngel
 
-**Frontend Developer · AI Engineer · Full Stack in Progress**  
+**Frontend Developer · Backend Developer · Software Engennering ·  AI Engineer · Full Stack in Progress · UX/UI Designer**  
 Estudiante de Ingeniería de Software · 9° semestre · Universidad Manuela Beltrán · Bogotá 🇨🇴
 
 ---
@@ -9,7 +9,7 @@ Estudiante de Ingeniería de Software · 9° semestre · Universidad Manuela Bel
 
 - Construyo interfaces modernas con **HTML, CSS, JavaScript, TypeScript y Next.js**
 - Integro IAs reales usando el **SDK de Anthropic** (Claude Sonnet/Haiku)
-- Manejo el backend con **FastAPI, Django, PostgreSQL y Docker**
+- Manejo el backend con **FastAPI, Django, PostgreSQL, SSMS y Docker**
 - Apasionado por la **ciberseguridad** (OWASP Top 10) y las herramientas para devs
 - Inglés B2 · Certificado IBM Design Thinking
 
