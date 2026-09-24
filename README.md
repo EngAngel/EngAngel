@@ -34,7 +34,6 @@ Estudiante de Ingeniería de Software · 9° semestre · Universidad Manuela Bel
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| [AISocial](https://engangel.github.io/AISocial) | Generador de contenido para RRSS con IA · **Demo live** | HTML/CSS/JS · Claude Haiku |
 | [MockMate](https://github.com/Portafolio-EngAngel/mockmate) | Simulador de entrevistas técnicas con Claude Sonnet | FastAPI · Next.js · TypeScript |
 | [HERIS](https://github.com/PWA-UMB/HERIS) | Juego educativo de reciclaje para tesis UMB | HTML/CSS/JS · Supabase |
 | [VulnRadar](https://github.com/Portafolio-EngAngel/vulnradar) | Scanner OWASP Top 10 para cualquier URL | Django · Celery · Redis |
